@@ -1,0 +1,8 @@
+com\dkasiian\lambda\LambdaRequestHandler.class
+com\dkasiian\lambda\LambdaRequestStreamHandler.class
+com\dkasiian\lambda\dynamodb\bean\PersonResponse.class
+com\dkasiian\lambda\LambdaMethodHandler.class
+com\dkasiian\lambda\dynamodb\bean\ProductRequest.class
+com\dkasiian\lambda\apigateway\model\Product.class
+com\dkasiian\lambda\apigateway\APIDemoHandler.class
+com\dkasiian\lambda\dynamodb\SavePersonHandler.class
